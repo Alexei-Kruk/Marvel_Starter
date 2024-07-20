@@ -2,7 +2,7 @@
 	"name": "marvel",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://alexei-kruk.github.io/Marvel_Starter/",
+	"homepage": "https://Alexei-Kruk.github.io/Marvel_Starter/",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.17.0",
 		"@testing-library/react": "^11.2.7",
